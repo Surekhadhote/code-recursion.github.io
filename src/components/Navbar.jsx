@@ -3,15 +3,18 @@ import { NavLink } from "react-router-dom";
 
 const Navbar = () => {
   return (
-    <div className="container-fluid ">
+    <div className="container-fluid">
       <div className="row">
-        <div className="col-10  mx-auto">
-          <nav class="navbar navbar-expand-lg navbar-light bg-white">
-            <NavLink class="navbar-brand" to="/">
+        <div className="col-11  mx-auto">
+          <nav className="navbar navbar-expand-lg navbar-light bg-white">
+            <NavLink
+              className="navbar-brand"
+              to="/"
+            >
               Ajay Singh
             </NavLink>
             <button
-              class="navbar-toggler"
+              className="navbar-toggler"
               type="button"
               data-toggle="collapse"
               data-target="#navbarSupportedContent"
@@ -19,49 +22,52 @@ const Navbar = () => {
               aria-expanded="false"
               aria-label="Toggle navigation"
             >
-              <span class="navbar-toggler-icon"></span>
+              <span className="navbar-toggler-icon"></span>
             </button>
 
             <div
-              class="collapse navbar-collapse"
+              className="collapse navbar-collapse"
               id="navbarSupportedContent"
             >
-              <ul class="navbar-nav ml-auto">
-                <li class="nav-item active">
+              <ul className="navbar-nav ml-auto">
+                <li className="nav-item">
                   <NavLink
-                    class="nav-link"
+                    exact
+                    className="nav-link"
                     to="/"
                   >
                     About
                   </NavLink>
                 </li>
-                <li class="nav-item">
+                <li className="nav-item px-3">
                   <NavLink
-                    class="nav-link"
-                    to="#experience"
+                    className="nav-link"
+                    to="/experience"
                   >
                     Experience
                   </NavLink>
                 </li>
-                <li class="nav-item">
+                <li className="nav-item px-3">
                   <NavLink
-                    class="nav-link"
+                    className="nav-link"
                     to="/project"
                   >
                     Project
                   </NavLink>
                 </li>
-                <li class="nav-item">
+                <li className="nav-item px-3">
                   <NavLink
-                    class="nav-link"
+                    exact
+                    className="nav-link"
                     to="/contact"
                   >
                     Contact
                   </NavLink>
                 </li>
-                <li class="nav-item">
+                <li className="nav-item px-3">
                   <NavLink
-                    class="nav-link btn_hire_me"
+                    exact
+                    className="nav-link btn_hire_me"
                     to="/contact"
                   >
                     Hire Me!
