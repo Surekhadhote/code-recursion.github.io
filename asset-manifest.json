@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/%7Breact-portfolio%7D/static/css/main.ce151739.chunk.css",
+    "main.js": "/%7Breact-portfolio%7D/static/js/main.02ab5bed.chunk.js",
+    "main.js.map": "/%7Breact-portfolio%7D/static/js/main.02ab5bed.chunk.js.map",
+    "runtime-main.js": "/%7Breact-portfolio%7D/static/js/runtime-main.8e2ebd4c.js",
+    "runtime-main.js.map": "/%7Breact-portfolio%7D/static/js/runtime-main.8e2ebd4c.js.map",
+    "static/css/2.75c4ecca.chunk.css": "/%7Breact-portfolio%7D/static/css/2.75c4ecca.chunk.css",
+    "static/js/2.aafba553.chunk.js": "/%7Breact-portfolio%7D/static/js/2.aafba553.chunk.js",
+    "static/js/2.aafba553.chunk.js.map": "/%7Breact-portfolio%7D/static/js/2.aafba553.chunk.js.map",
+    "index.html": "/%7Breact-portfolio%7D/index.html",
+    "precache-manifest.d272c168b464666526a677b4f2d3101d.js": "/%7Breact-portfolio%7D/precache-manifest.d272c168b464666526a677b4f2d3101d.js",
+    "service-worker.js": "/%7Breact-portfolio%7D/service-worker.js",
+    "static/css/2.75c4ecca.chunk.css.map": "/%7Breact-portfolio%7D/static/css/2.75c4ecca.chunk.css.map",
+    "static/css/main.ce151739.chunk.css.map": "/%7Breact-portfolio%7D/static/css/main.ce151739.chunk.css.map",
+    "static/js/2.aafba553.chunk.js.LICENSE.txt": "/%7Breact-portfolio%7D/static/js/2.aafba553.chunk.js.LICENSE.txt",
+    "static/media/arrow-icon.svg": "/%7Breact-portfolio%7D/static/media/arrow-icon.f76fbd14.svg",
+    "static/media/email-icon.svg": "/%7Breact-portfolio%7D/static/media/email-icon.66eb97d0.svg",
+    "static/media/github-icon.svg": "/%7Breact-portfolio%7D/static/media/github-icon.98062ab5.svg",
+    "static/media/linkedin-icon.svg": "/%7Breact-portfolio%7D/static/media/linkedin-icon.2e2688fa.svg",
+    "static/media/portrait-ajay.svg": "/%7Breact-portfolio%7D/static/media/portrait-ajay.c6bc8fd1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8e2ebd4c.js",
+    "static/css/2.75c4ecca.chunk.css",
+    "static/js/2.aafba553.chunk.js",
+    "static/css/main.ce151739.chunk.css",
+    "static/js/main.02ab5bed.chunk.js"
+  ]
+}
