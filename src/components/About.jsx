@@ -63,8 +63,9 @@ const About = () => {
               </a>
             </div>
 
-            <div className="container_arrow mt-3 d-flex justify-content-center  floating">
+            <div className="container_arrow mt-md-5 mt-xs-4 d-flex justify-content-center  floating">
               <img
+                className="mt-md-5"
                 src={Arrow}
               ></img>
             </div>
