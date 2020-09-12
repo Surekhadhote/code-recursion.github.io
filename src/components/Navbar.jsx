@@ -1,9 +1,9 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
-
+import "../styles/navbar.css";
 const Navbar = () => {
   return (
-    <div className="container-fluid">
+    <div className="container-fluid nav_bar">
       <div className="row">
         <div className="col-11  mx-auto">
           <nav className="navbar navbar-expand-lg navbar-light bg-white">
@@ -11,7 +11,7 @@ const Navbar = () => {
               className="navbar-brand"
               to="/"
             >
-              Ajay Singh
+              <h4> Ajay Singh</h4>
             </NavLink>
             <button
               className="navbar-toggler"
@@ -30,7 +30,7 @@ const Navbar = () => {
               id="navbarSupportedContent"
             >
               <ul className="navbar-nav ml-auto">
-                <li className="nav-item">
+                <li className="nav-item pr-3">
                   <NavLink
                     exact
                     className="nav-link"
@@ -39,7 +39,7 @@ const Navbar = () => {
                     About
                   </NavLink>
                 </li>
-                <li className="nav-item px-3">
+                <li className="nav-item pr-3">
                   <NavLink
                     className="nav-link"
                     to="/experience"
@@ -47,7 +47,7 @@ const Navbar = () => {
                     Experience
                   </NavLink>
                 </li>
-                <li className="nav-item px-3">
+                <li className="nav-item pr-3">
                   <NavLink
                     className="nav-link"
                     to="/project"
@@ -55,7 +55,7 @@ const Navbar = () => {
                     Project
                   </NavLink>
                 </li>
-                <li className="nav-item px-3">
+                <li className="nav-item pr-3">
                   <NavLink
                     exact
                     className="nav-link"
@@ -64,13 +64,13 @@ const Navbar = () => {
                     Contact
                   </NavLink>
                 </li>
-                <li className="nav-item px-3">
+                <li className="nav-item pr-3">
                   <NavLink
                     exact
                     className="nav-link btn_hire_me"
                     to="/contact"
                   >
-                    Hire Me!
+                    Hire Me
                   </NavLink>
                 </li>
               </ul>
