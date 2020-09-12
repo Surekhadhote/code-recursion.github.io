@@ -21,8 +21,8 @@ const About = () => {
                 hello, i am Ajay Singh a pre final
                 year Student Persuing B.Tech I
                 love to learn about new things and
-                sharing what i learn <br></br>and
-                yes i can Code!
+                sharing what i learn and yes i can
+                Code!
               </h6>
             </div>
 
@@ -52,7 +52,7 @@ const About = () => {
               </a>
 
               <a
-                href="mailto:helloajaysingh1@gmail.com?subject=Hello, Ajay&body=write here"
+                href="mailto:helloajaysingh1@gmail.com?subject=Hello&body=Hello Ajay!"
                 target="_blank"
               >
                 <img
@@ -63,7 +63,7 @@ const About = () => {
             </div>
 
             <div className="container_arrow mt-lg-5 d-flex justify-content-center my-2">
-              <img src={Arrow}></img>
+              <img src={Arrow} className = "mt-md-5"></img>
             </div>
           </div>
         </div>
