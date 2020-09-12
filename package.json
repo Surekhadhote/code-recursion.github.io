@@ -1,6 +1,6 @@
 {
   "homepage": "http://{code-recursion}.github.io/{react-portfolio}",
-  "name": "Portfolo",
+  "name": "portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
