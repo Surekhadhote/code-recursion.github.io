@@ -5,6 +5,7 @@ import Github from "../images/github-icon.svg";
 import Email from "../images/email-icon.svg";
 import Arrow from "../images/arrow-icon.svg";
 import "../styles/about.css";
+import "../styles/animation.css";
 
 const About = () => {
   return (
@@ -62,8 +63,10 @@ const About = () => {
               </a>
             </div>
 
-            <div className="container_arrow mt-lg-5 d-flex justify-content-center my-2">
-              <img src={Arrow} className = "mt-md-5"></img>
+            <div className="container_arrow mt-3 d-flex justify-content-center  floating">
+              <img
+                src={Arrow}
+              ></img>
             </div>
           </div>
         </div>
