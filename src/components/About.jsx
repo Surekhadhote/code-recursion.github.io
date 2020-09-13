@@ -15,6 +15,9 @@ import git from "../images/git-icon.svg";
 import c from "../images/c-icon.svg";
 import cpp from "../images/cpp-icon.svg";
 import github from "../images/github.svg";
+import nodejs from "../images/nodejs-icon.svg";
+import php from "../images/php-icon.svg";
+import mysql from "../images/mysql-icon.svg";
 
 const About = () => {
   return (
@@ -28,10 +31,10 @@ const About = () => {
 
             <div className="justify-content-center">
               <h6 className="mx-auto text-center">
-                hello, i am Ajay Singh a pre final
-                year Student Persuing B.Tech I
+                Hello! i am Ajay Singh, A pre final
+                year Student Persuing B.Tech with IT stream. I
                 love to learn about new things and
-                sharing what i learn and yes i can
+                sharing what i learn. and yes i can
                 Code!
               </h6>
             </div>
@@ -142,8 +145,8 @@ const About = () => {
                     I love listening to English
                     music and playing football.
                   </p>
-                  <h5>Tech stack i work with</h5>
-                  <div className="container container-icons">
+                  <h5 className="text-center">Tech stack i use frequently</h5>
+                  <div className="container container-icons text-center">
                     <img src={html}></img>
                     <img src={css}></img>
                     <img src={js}></img>
@@ -151,7 +154,9 @@ const About = () => {
                     <img src={git}></img>
                     <img src={c}></img>
                     <img src={cpp}></img>
+                    <img src={nodejs}></img>
                     <img src={github}></img>
+                    <img src={mysql}></img>
                   </div>
                 </div>
               </div>
