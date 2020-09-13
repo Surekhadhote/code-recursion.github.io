@@ -1,7 +1,14 @@
+html {
+  scroll-behavior: smooth;
+}
+
 .container_portait img {
   width: 10rem;
 }
 
 .container_arrow img{
   width: 3rem;
+}
+#about-2{
+  transform: rotate(180deg);
 }

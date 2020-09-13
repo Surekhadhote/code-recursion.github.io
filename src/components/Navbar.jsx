@@ -3,10 +3,10 @@ import { NavLink } from "react-router-dom";
 import "../styles/navbar.css";
 const Navbar = () => {
   return (
-    <div className="container-fluid nav_bar">
+    <div className="container-fluid nav_bar" id="about-1">
       <div className="row">
         <div className="col-11  mx-auto">
-          <nav className="navbar navbar-expand-lg navbar-light bg-white">
+          <nav className="navbar navbar-expand-lg navbar-light">
             <NavLink
               className="navbar-brand"
               to="/"

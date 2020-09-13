@@ -11,22 +11,27 @@ const Experience = () => {
             <h1 className="text-center">
               Experience
             </h1>
-            <div className="dsc mt-5 justify-content-center text-center">
+            <div className="dsc mt-4 justify-content-center text-center">
               <h4 className="text-center">
                 Developer Student Clubs Lead
                 @BIST, Bhopal
               </h4>
-              <img
-                className="text-center justify-content-center mt-2"
-                src={DSC}
-              />
-              <p className="text-muted d-4 text-center">
+              <a
+                target="_blank"
+                href="https://dsc.community.dev/bansal-institute-of-science-and-technology/ "
+              >
+                <img
+                  className="text-center justify-content-center mt-2"
+                  src={DSC}
+                />
+              </a>
+              <p className="text-muted d-3 text-center">
                 Session 2020-21
               </p>
             </div>
             <hr className="horizontal-line" />
 
-            <div className="rmgx mt-5 justify-content-center text-center">
+            <div className="rmgx mt-2 justify-content-center text-center">
               <h4 className="text-center">
                 Web Development Intern
               </h4>
@@ -40,11 +45,11 @@ const Experience = () => {
                 target="_blank"
               >
                 <img
-                  className="text-center justify-content-center mb-2"
+                  className="text-center justify-content-center mb"
                   src={RMGX}
                 />
               </a>
-              <p className="text-muted d-4 text-center">
+              <p className="text-muted d-3 text-center">
                 August 2020 - present
               </p>
             </div>

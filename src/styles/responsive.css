@@ -1,0 +1,14 @@
+@media (min-width: 788px) {
+  body {
+    overflow: hidden !important;
+  }
+}
+@media (max-width: 786px) {
+  .arrow-down {
+    margin-top: 10rem !important;
+  }
+
+  .arrow-up {
+    margin-bottom: 10rem !important;
+  }
+}
