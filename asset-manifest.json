@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.3fd980e3.chunk.css",
-    "main.js": "/static/js/main.be6b9f2d.chunk.js",
-    "main.js.map": "/static/js/main.be6b9f2d.chunk.js.map",
+    "main.css": "/static/css/main.bbe6b326.chunk.css",
+    "main.js": "/static/js/main.8c557810.chunk.js",
+    "main.js.map": "/static/js/main.8c557810.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e5fc83a6.js",
     "runtime-main.js.map": "/static/js/runtime-main.e5fc83a6.js.map",
     "static/css/2.75c4ecca.chunk.css": "/static/css/2.75c4ecca.chunk.css",
-    "static/js/2.64548130.chunk.js": "/static/js/2.64548130.chunk.js",
-    "static/js/2.64548130.chunk.js.map": "/static/js/2.64548130.chunk.js.map",
+    "static/js/2.b5d25555.chunk.js": "/static/js/2.b5d25555.chunk.js",
+    "static/js/2.b5d25555.chunk.js.map": "/static/js/2.b5d25555.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.ce3574d2240bc40be570cf17f507d3b1.js": "/precache-manifest.ce3574d2240bc40be570cf17f507d3b1.js",
+    "precache-manifest.79a1304819f2f1157f2a39a67c4cfc96.js": "/precache-manifest.79a1304819f2f1157f2a39a67c4cfc96.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.75c4ecca.chunk.css.map": "/static/css/2.75c4ecca.chunk.css.map",
-    "static/css/main.3fd980e3.chunk.css.map": "/static/css/main.3fd980e3.chunk.css.map",
-    "static/js/2.64548130.chunk.js.LICENSE.txt": "/static/js/2.64548130.chunk.js.LICENSE.txt",
-    "static/media/arrow-icon.svg": "/static/media/arrow-icon.f76fbd14.svg",
+    "static/css/main.bbe6b326.chunk.css.map": "/static/css/main.bbe6b326.chunk.css.map",
+    "static/js/2.b5d25555.chunk.js.LICENSE.txt": "/static/js/2.b5d25555.chunk.js.LICENSE.txt",
+    "static/media/arrow-icon.svg": "/static/media/arrow-icon.e207bd11.svg",
     "static/media/c-icon.svg": "/static/media/c-icon.c61a5c47.svg",
     "static/media/cpp-icon.svg": "/static/media/cpp-icon.a028649d.svg",
     "static/media/css-icon.svg": "/static/media/css-icon.889449e3.svg",
@@ -26,14 +26,17 @@
     "static/media/html-icon.svg": "/static/media/html-icon.5e025b38.svg",
     "static/media/js-icon.svg": "/static/media/js-icon.5b546759.svg",
     "static/media/linkedin-icon.svg": "/static/media/linkedin-icon.2e2688fa.svg",
+    "static/media/mysql-icon.svg": "/static/media/mysql-icon.48df5dc5.svg",
+    "static/media/nodejs-icon.svg": "/static/media/nodejs-icon.705b987e.svg",
+    "static/media/php-icon.svg": "/static/media/php-icon.ba8d3a2a.svg",
     "static/media/portrait-ajay.svg": "/static/media/portrait-ajay.c6bc8fd1.svg",
     "static/media/react-icon.svg": "/static/media/react-icon.1f6a76a4.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.e5fc83a6.js",
     "static/css/2.75c4ecca.chunk.css",
-    "static/js/2.64548130.chunk.js",
-    "static/css/main.3fd980e3.chunk.css",
-    "static/js/main.be6b9f2d.chunk.js"
+    "static/js/2.b5d25555.chunk.js",
+    "static/css/main.bbe6b326.chunk.css",
+    "static/js/main.8c557810.chunk.js"
   ]
 }
