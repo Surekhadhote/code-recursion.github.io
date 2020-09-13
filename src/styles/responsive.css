@@ -1,14 +1,12 @@
-@media (min-width: 788px) {
-  body {
-    overflow: hidden !important;
-  }
-}
 @media (max-width: 786px) {
+  body {
+    overflow: auto !important;
+  }
   .arrow-down {
-    margin-top: 10rem !important;
+    margin-top: 1rem !important;
   }
 
-  .arrow-up {
-    margin-bottom: 10rem !important;
+  #about-2 {
+    margin-bottom: 10rem;
   }
 }

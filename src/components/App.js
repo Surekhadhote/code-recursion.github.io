@@ -1,5 +1,6 @@
 import React from "react";
 import { Switch, Route } from "react-router-dom";
+import "../styles/responsive.css";
 import Navbar from "./Navbar";
 import About from "./About";
 import Project from "./Project";

@@ -2,6 +2,10 @@ html {
   scroll-behavior: smooth;
 }
 
+body {
+  overflow: hidden;
+}
+
 .container_portait img {
   width: 10rem;
 }
