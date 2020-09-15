@@ -16,7 +16,7 @@ import c from "../images/c-icon.svg";
 import cpp from "../images/cpp-icon.svg";
 import github from "../images/github.svg";
 import nodejs from "../images/nodejs-icon.svg";
-import php from "../images/php-icon.svg";
+import figma from "../images/figma-icon.svg";
 import mysql from "../images/mysql-icon.svg";
 
 const About = () => {
@@ -31,11 +31,11 @@ const About = () => {
 
             <div className="justify-content-center">
               <h6 className="mx-auto text-center">
-                Hello! i am Ajay Singh, A pre final
-                year Student Persuing B.Tech with IT stream. I
-                love to learn about new things and
-                sharing what i learn. and yes i can
-                Code!
+                Hello! i am Ajay Singh, A pre
+                final year Student Persuing B.Tech
+                with IT stream. I love to learn
+                about new things and sharing what
+                i learn. and yes i can Code!
               </h6>
             </div>
 
@@ -134,7 +134,7 @@ const About = () => {
                     I Like C++ and JavaScript,
                     currently heading towards
                     Mastering Data Structures and
-                    Algorithm, Im a beginner in
+                    Algorithms, Im a beginner in
                     Competitive Programming and
                     practice it in my free time.
                     Open source Development and
@@ -145,18 +145,21 @@ const About = () => {
                     I love listening to English
                     music and playing football.
                   </p>
-                  <h5 className="text-center">Tech stack i use frequently</h5>
+                  <h5 className="text-center">
+                    Tech stack i use frequently
+                  </h5>
                   <div className="container container-icons text-center">
-                    <img src={html}></img>
-                    <img src={css}></img>
-                    <img src={js}></img>
-                    <img src={react}></img>
-                    <img src={git}></img>
-                    <img src={c}></img>
-                    <img src={cpp}></img>
-                    <img src={nodejs}></img>
-                    <img src={github}></img>
-                    <img src={mysql}></img>
+                    <img className="m-1"src={html}></img>
+                    <img className="m-1"src={css}></img>
+                    <img className="m-1"src={js}></img>
+                    <img className="m-1"src={react}></img>
+                    <img className="m-1"src={nodejs}></img>
+                    <img className="m-1"src={figma}></img>
+                    <img className="m-1"src={mysql}></img>
+                    <img className="m-1"src={git}></img>
+                    <img className="m-1"src={github}></img>
+                    <img className="m-1"src={c}></img>
+                    <img className="m-1"src={cpp}></img>
                   </div>
                 </div>
               </div>
