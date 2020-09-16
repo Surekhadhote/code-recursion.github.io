@@ -10,3 +10,19 @@
     margin-bottom: 10rem;
   }
 }
+
+@media (min-width: 1500px) {
+  .container_arrow {
+    padding-top: 10rem !important;
+  }
+
+  .hero_text {
+    margin-top:5rem;
+  }
+
+  #know_more {
+    margin-bottom:10rem !important;
+    font-size:3rem;
+
+  }
+}

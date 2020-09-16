@@ -25,7 +25,7 @@ const About = () => {
       <div className="container-fluid">
         <div className="row">
           <div className="col-11  mx-auto">
-            <h2 className="text-center font-font-weight-bold">
+            <h2 className="hero_text text-center font-font-weight-bold">
               Web Developer, Programmer
             </h2>
 
@@ -85,11 +85,11 @@ const About = () => {
             </div>
           </div>
           <div className="col-11  mt-5 mx-auto">
-            <h2 className="mt-5 text-center font-font-weight-bold mb-5">
+            <h2 className="know_me_more mt-5 text-center font-font-weight-bold mb-5" id="know_more">
               Know Me More
             </h2>
 
-            <div className="container">
+            <div className="container mb-xl-5 pt-xl-5">
               <div className="row">
                 <div className="col-md-6 col-12-xs">
                   <p className="">
@@ -137,8 +137,7 @@ const About = () => {
                     Algorithms, Im a beginner in
                     Competitive Programming and
                     practice it in my free time.
-                    Open source Development and
-                    Contributing Enthusiast. I am
+                    Open source Enthusiast,
                     learning the MERN Stack.
                   </p>
                   <p className="text-muted">
