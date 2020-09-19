@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.aa23dad1.chunk.css",
-    "main.js": "/static/js/main.3e4ff21f.chunk.js",
-    "main.js.map": "/static/js/main.3e4ff21f.chunk.js.map",
+    "main.css": "/static/css/main.9a78d9d6.chunk.css",
+    "main.js": "/static/js/main.61176e3d.chunk.js",
+    "main.js.map": "/static/js/main.61176e3d.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e5fc83a6.js",
     "runtime-main.js.map": "/static/js/runtime-main.e5fc83a6.js.map",
     "static/css/2.75c4ecca.chunk.css": "/static/css/2.75c4ecca.chunk.css",
-    "static/js/2.e790cd2c.chunk.js": "/static/js/2.e790cd2c.chunk.js",
-    "static/js/2.e790cd2c.chunk.js.map": "/static/js/2.e790cd2c.chunk.js.map",
+    "static/js/2.07287903.chunk.js": "/static/js/2.07287903.chunk.js",
+    "static/js/2.07287903.chunk.js.map": "/static/js/2.07287903.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.20db00dc54c39325972be8600ac26320.js": "/precache-manifest.20db00dc54c39325972be8600ac26320.js",
+    "precache-manifest.895e7d6a61b720f50218951bab1a4cd5.js": "/precache-manifest.895e7d6a61b720f50218951bab1a4cd5.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.75c4ecca.chunk.css.map": "/static/css/2.75c4ecca.chunk.css.map",
-    "static/css/main.aa23dad1.chunk.css.map": "/static/css/main.aa23dad1.chunk.css.map",
-    "static/js/2.e790cd2c.chunk.js.LICENSE.txt": "/static/js/2.e790cd2c.chunk.js.LICENSE.txt",
+    "static/css/main.9a78d9d6.chunk.css.map": "/static/css/main.9a78d9d6.chunk.css.map",
+    "static/js/2.07287903.chunk.js.LICENSE.txt": "/static/js/2.07287903.chunk.js.LICENSE.txt",
     "static/media/arrow-icon.svg": "/static/media/arrow-icon.e207bd11.svg",
     "static/media/c-icon.svg": "/static/media/c-icon.c61a5c47.svg",
+    "static/media/copy-icon.svg": "/static/media/copy-icon.a9b1c4a6.svg",
     "static/media/cpp-icon.svg": "/static/media/cpp-icon.a028649d.svg",
     "static/media/css-icon.svg": "/static/media/css-icon.889449e3.svg",
     "static/media/dsc-icon.svg": "/static/media/dsc-icon.52b5a055.svg",
@@ -25,6 +26,7 @@
     "static/media/github-icon.svg": "/static/media/github-icon.98062ab5.svg",
     "static/media/github-link.svg": "/static/media/github-link.fa7bdbe9.svg",
     "static/media/github.svg": "/static/media/github.7697c1bf.svg",
+    "static/media/heart-icon.svg": "/static/media/heart-icon.d3a46805.svg",
     "static/media/html-icon.svg": "/static/media/html-icon.5e025b38.svg",
     "static/media/js-icon.svg": "/static/media/js-icon.5b546759.svg",
     "static/media/link-icon.svg": "/static/media/link-icon.298bf0e9.svg",
@@ -41,8 +43,8 @@
   "entrypoints": [
     "static/js/runtime-main.e5fc83a6.js",
     "static/css/2.75c4ecca.chunk.css",
-    "static/js/2.e790cd2c.chunk.js",
-    "static/css/main.aa23dad1.chunk.css",
-    "static/js/main.3e4ff21f.chunk.js"
+    "static/js/2.07287903.chunk.js",
+    "static/css/main.9a78d9d6.chunk.css",
+    "static/js/main.61176e3d.chunk.js"
   ]
 }
