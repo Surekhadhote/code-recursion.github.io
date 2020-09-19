@@ -2,8 +2,11 @@ import React from "react";
 import { NavLink } from "react-router-dom";
 import "../styles/navbar.css";
 const Navbar = () => {
-  return (
-    <div className="container-fluid nav_bar" id="about-1">
+  return (<>
+    <div
+      className="container-fluid bg-white nav_bar fixed-top"
+      id="about-1"
+    >
       <div className="row">
         <div className="col-11  mx-auto">
           <nav className="navbar navbar-expand-lg navbar-light">
@@ -79,6 +82,7 @@ const Navbar = () => {
         </div>
       </div>
     </div>
+    <div className="container pb-5 pt-5" id="about1"></div></>
   );
 };
 

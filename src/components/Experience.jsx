@@ -49,7 +49,7 @@ const Experience = () => {
                   src={RMGX}
                 />
               </a>
-              <p className="text-muted d-3 text-center">
+              <p className="text-muted d-3 text-center pt-4 mb-2">
                 August 2020 - present
               </p>
             </div>

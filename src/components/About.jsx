@@ -35,7 +35,7 @@ const About = () => {
                 final year Student Persuing B.Tech
                 with IT stream. I love to learn
                 about new things and sharing what
-                i learn. and yes i can Code!
+                i learn. And yes i can Code!
               </h6>
             </div>
 
@@ -85,7 +85,7 @@ const About = () => {
             </div>
           </div>
           <div className="col-11  mt-5 mx-auto">
-            <h2 className="know_me_more mt-5 text-center font-font-weight-bold mb-5" id="know_more">
+            <h2 className="know_me_more mt-5 text-center font-font-weight-bold" id="know_more">
               Know Me More
             </h2>
 
@@ -130,16 +130,14 @@ const About = () => {
                     I am an Aspiring Full Stack
                     Developer.
                   </p>
-                  <p className="">
+                  <p>
                     I Like C++ and JavaScript,
                     currently heading towards
                     Mastering Data Structures and
                     Algorithms, Im a beginner in
                     Competitive Programming and
-                    practice it in my free time.
-                    Open source Enthusiast,
-                    learning the MERN Stack.
-                  </p>
+                    do practice it in my free time.
+                    Open source Enthusiast.                  </p>
                   <p className="text-muted">
                     I love listening to English
                     music and playing football.
@@ -165,7 +163,7 @@ const About = () => {
             </div>
 
             <div className="container_arrow my-5 d-flex justify-content-center  floating arrow-up">
-              <a href="#about-1">
+              <a href="#about1">
                 <img
                   id="about-2"
                   className=""
