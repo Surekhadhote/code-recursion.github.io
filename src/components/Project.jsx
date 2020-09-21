@@ -311,8 +311,8 @@ const Project = () => {
                       <div class="card-body">
                         <p class="card-text">
                           <h4 className="text-center text-bolder  mb-3">
-                            Start My Projects and
-                            Follow me on Github 💜
+                            Star My Projects and
+                            Follow me on Github 
                           </h4>
                         </p>
                         <div className="container d-flex m-0 justify-content-center">
