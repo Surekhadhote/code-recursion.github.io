@@ -107,17 +107,17 @@ const Project = () => {
                         className="card-img"
                       ></img>
                       <div class="card-body">
-                        <h5 class="card-title">
-                          Special title treatment
-                        </h5>
                         <p class="card-text">
-                          With supporting text
-                          below as a natural
-                          lead-in to additional
-                          content.
+                          Simple
+                          Todo Notes Application
+                          Features like Light weight
+                          and Simple UI. Can add
+                          images with notes Auto
+                          Delete Tasks under 15
+                          min if Checked.
                         </p>
                         <p class="card-text text-bolder d-5 text-muted">
-                          Kotlin | XML | FireBase
+                          Kotlin | XML | Android Studio
                         </p>
                         <div className="container d-flex justify-content-center mb-3">
                           <a href="https://github.com/Code-Recursion/code-recursion.github.io">
@@ -148,6 +148,9 @@ const Project = () => {
                           the part of 30 Days of
                           Kotlin by Google
                           Developers
+                        </p>
+                        <p class="card-text text-bolder d-5 text-muted">
+                          Kotlin | XML | Android Studio
                         </p>
 
                         <div className="container d-flex justify-content-center mb-3">
