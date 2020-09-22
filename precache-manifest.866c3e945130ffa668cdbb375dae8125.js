@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "acfc67c217843856aafc5cead53474c8",
+    "revision": "1b6aaf3a828ce50e65d9e0712efdb8ac",
     "url": "/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.75c4ecca.chunk.css"
   },
   {
-    "revision": "08ea98c6ef43b0c23046",
-    "url": "/static/css/main.b82f841b.chunk.css"
+    "revision": "3f250b2699bc413045c2",
+    "url": "/static/css/main.caffa0c5.chunk.css"
   },
   {
     "revision": "2e552987229c03957834",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.113fc534.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "08ea98c6ef43b0c23046",
-    "url": "/static/js/main.1e512826.chunk.js"
+    "revision": "3f250b2699bc413045c2",
+    "url": "/static/js/main.df724ddf.chunk.js"
   },
   {
     "revision": "b4ba650b238755144e2a",
@@ -74,10 +74,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "7697c1bf2fc67bdd49d7f50c4b34d1a1",
     "url": "/static/media/github.7697c1bf.svg"
-  },
-  {
-    "revision": "d3a4680516abf6f77ca26d0199edb38d",
-    "url": "/static/media/heart-icon.d3a46805.svg"
   },
   {
     "revision": "5e025b389b303c0d010a3294eb183d21",

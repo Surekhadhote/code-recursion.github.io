@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.b82f841b.chunk.css",
-    "main.js": "/static/js/main.1e512826.chunk.js",
-    "main.js.map": "/static/js/main.1e512826.chunk.js.map",
+    "main.css": "/static/css/main.caffa0c5.chunk.css",
+    "main.js": "/static/js/main.df724ddf.chunk.js",
+    "main.js.map": "/static/js/main.df724ddf.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e5fc83a6.js",
     "runtime-main.js.map": "/static/js/runtime-main.e5fc83a6.js.map",
     "static/css/2.75c4ecca.chunk.css": "/static/css/2.75c4ecca.chunk.css",
     "static/js/2.113fc534.chunk.js": "/static/js/2.113fc534.chunk.js",
     "static/js/2.113fc534.chunk.js.map": "/static/js/2.113fc534.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.3b0fce3468cbbd9aa3775e6ff4c6dccd.js": "/precache-manifest.3b0fce3468cbbd9aa3775e6ff4c6dccd.js",
+    "precache-manifest.866c3e945130ffa668cdbb375dae8125.js": "/precache-manifest.866c3e945130ffa668cdbb375dae8125.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.75c4ecca.chunk.css.map": "/static/css/2.75c4ecca.chunk.css.map",
-    "static/css/main.b82f841b.chunk.css.map": "/static/css/main.b82f841b.chunk.css.map",
+    "static/css/main.caffa0c5.chunk.css.map": "/static/css/main.caffa0c5.chunk.css.map",
     "static/js/2.113fc534.chunk.js.LICENSE.txt": "/static/js/2.113fc534.chunk.js.LICENSE.txt",
     "static/media/arrow-icon.svg": "/static/media/arrow-icon.e207bd11.svg",
     "static/media/c-icon.svg": "/static/media/c-icon.c61a5c47.svg",
@@ -26,7 +26,6 @@
     "static/media/github-icon.svg": "/static/media/github-icon.98062ab5.svg",
     "static/media/github-link.svg": "/static/media/github-link.fa7bdbe9.svg",
     "static/media/github.svg": "/static/media/github.7697c1bf.svg",
-    "static/media/heart-icon.svg": "/static/media/heart-icon.d3a46805.svg",
     "static/media/html-icon.svg": "/static/media/html-icon.5e025b38.svg",
     "static/media/js-icon.svg": "/static/media/js-icon.5b546759.svg",
     "static/media/link-icon.svg": "/static/media/link-icon.298bf0e9.svg",
@@ -48,7 +47,7 @@
     "static/js/runtime-main.e5fc83a6.js",
     "static/css/2.75c4ecca.chunk.css",
     "static/js/2.113fc534.chunk.js",
-    "static/css/main.b82f841b.chunk.css",
-    "static/js/main.1e512826.chunk.js"
+    "static/css/main.caffa0c5.chunk.css",
+    "static/js/main.df724ddf.chunk.js"
   ]
 }
