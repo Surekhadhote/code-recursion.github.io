@@ -38,7 +38,15 @@ input.form-control:focus,
 input[type="text"]:focus,
 input[type="email"]:focus {
   outline: none !important;
-  border: 0.1rem solid rgb(27, 183, 255) !important    ;
+  border: 1px solid #7510f7 !important    ;
   box-shadow: none;
   outline: none !important;
+  transition: 0.3s ease-in;
 }
+
+text,textarea {
+  outline: none !important  ; 
+  box-shadow: none !important;
+  border: 1px solid #ccc !important;
+}
+
