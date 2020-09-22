@@ -310,10 +310,10 @@ const Project = () => {
                     <div className="image card-img">
                       <div class="card-body">
                         <p class="card-text">
-                          <h4 className="text-center text-bolder  mb-3">
+                          <h5 className="text-center text-bolder  mb-3">
                             Star My Projects and
                             Follow me on Github 
-                          </h4>
+                          </h5>
                         </p>
                         <div className="container d-flex m-0 justify-content-center">
                           <img

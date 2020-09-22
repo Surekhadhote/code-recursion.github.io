@@ -1,5 +1,6 @@
 html {
   scroll-behavior: smooth;
+  user-select: none;
 }
 
 body {
@@ -10,9 +11,10 @@ body {
   width: 10rem;
 }
 
-.container_arrow img{
+.container_arrow img {
   width: 3rem;
 }
-#about-2{
+#about-2 {
   transform: rotate(180deg);
 }
+

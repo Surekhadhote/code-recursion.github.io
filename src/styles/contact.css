@@ -1,0 +1,44 @@
+input,
+textarea {
+  background: #f6f6f6 !important;
+}
+
+.btn_send {
+  border: 0.15rem solid #7510f7;
+  width: fit-content;
+  border-radius: 3rem;
+  padding: 0.2rem 1rem !important;
+  font-size: 1rem;
+  font-size: 1rem;
+  background: #fff;
+  position: relative;
+  top: 1rem;
+}
+
+.btn_send:hover {
+  background: #7510f7;
+  color: #fff !important;
+}
+
+input,
+textarea {
+  font-size: small !important;
+  color: #000 !important;
+  background: #f1f1f1 !important;
+  border: 0 !important;
+}
+textarea {
+  height: 10rem;
+}
+
+input:focus,
+textarea:focus,
+textarea.form-control:focus,
+input.form-control:focus,
+input[type="text"]:focus,
+input[type="email"]:focus {
+  outline: none !important;
+  border: 0.1rem solid rgb(27, 183, 255) !important    ;
+  box-shadow: none;
+  outline: none !important;
+}

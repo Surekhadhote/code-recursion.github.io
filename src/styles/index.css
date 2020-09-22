@@ -6,6 +6,9 @@
   font-family: "Poppins", sans-serif;
 }
 
-html {
+html,
+body {
   cursor: url("../images/cur.png"), auto;
+  height: 100vh;
 }
+
