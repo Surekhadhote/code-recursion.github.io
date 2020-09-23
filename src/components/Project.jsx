@@ -305,7 +305,7 @@ const Project = () => {
                     </div>
                   </div>
                 </div>
-                <div className="col-md-4 col-xs-12 mt-4">
+                <div className="col-md-4 col-xs-12 mt-4 mb-4">
                   <div className="card mt-5">
                     <div className="image card-img">
                       <div class="card-body">

@@ -44,9 +44,11 @@ input[type="email"]:focus {
   transition: 0.3s ease-in;
 }
 
-text,textarea {
+input,textarea {
   outline: none !important  ; 
-  box-shadow: none !important;
-  border: 1px solid #ccc !important;
+  
 }
 
+.btn_send {
+  outline:none !important;
+}
